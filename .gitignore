@@ -37,7 +37,7 @@ migrate_working_dir/
 /build/
 
 # Symbolication related
-app.*.symbols
+app.*.symbolsgit push origin main
 
 # Obfuscation related
 app.*.map.json
