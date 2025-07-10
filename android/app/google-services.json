@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410929552867",
+    "project_id": "amenbreak",
+    "storage_bucket": "amenbreak.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410929552867:android:9a1f9bf649fa9cbed554d6",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMgynoYmwDYLu9-A1RanDsl3hITwg0N_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
