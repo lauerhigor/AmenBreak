@@ -97,4 +97,18 @@ Com tudo configurado, execute a aplicação com o seguinte comando:
 ```bash
 flutter run
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/d061c8b2-af00-4c08-8392-d3a79ab897c4)
+![image](https://github.com/user-attachments/assets/57abd988-9b55-474c-9cca-4cb78bb005a1)
+![image](https://github.com/user-attachments/assets/59b1ecbc-f069-45eb-9783-b61646824435)
+![image](https://github.com/user-attachments/assets/18551886-6075-4c23-ac80-c77ed68d84e7)
+![image](https://github.com/user-attachments/assets/33e3f9af-2776-481f-b799-ecebae0465fc)
+![image](https://github.com/user-attachments/assets/d1193c1a-cfd0-4129-975e-2997d22b7a17)
+![image](https://github.com/user-attachments/assets/3167962c-30ce-4fa6-837c-193dfae4c78c)
+![image](https://github.com/user-attachments/assets/73c58ca6-9bc3-4352-9ae6-6275a2ad7a3d)
+![image](https://github.com/user-attachments/assets/67b99133-9caa-4ab2-b5f5-198cd8d3946f)
+![image](https://github.com/user-attachments/assets/839aadb8-c4b2-4acd-9989-89237dc93b19)
+
+
+
+
+
